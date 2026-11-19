@@ -1,0 +1,6 @@
+{
+  "name": "Principia Archive",
+  "description": "Archival JEE Advanced and Physics Olympiad preparation workbench with interactive lecture theatre, multi-format problem engine, KaTeX scratchpad, and offline-first content studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
